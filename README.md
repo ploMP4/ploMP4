@@ -24,7 +24,7 @@ I'm a passionate software developer hailing from Greece, with a deep love for te
 
 <p align="left">
 <a href="https://github.com/ploMP4">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ploMP4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ploMP4&layout=compact&hide=java,html,css&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ploMP4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ploMP4&layout=compact&hide=java,html,css&theme=tokyonight" />
 </a>
 </p>
