@@ -8,7 +8,6 @@ I'm a passionate software developer hailing from Greece, with a deep love for te
 
 *   🌍  I'm based in Greece
 *   ✉️  You can contact me at [artopouloskon@gmail.com](mailto:artopouloskon@gmail.com)
-*   🚀  I'm currently working on [GoGo My Project](http://github.com/ploMP4/GoGo-MyProject)
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=go,python,django,mysql,javascript,typescript,react,neovim,git,linux)](https://skillicons.dev)
