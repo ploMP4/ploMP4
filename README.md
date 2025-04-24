@@ -4,13 +4,13 @@ Hi 👋 My name is Konstantinos Artopoulos
 Software Developer
 ------------------
 
-I'm a passionate software developer hailing from Greece, with a deep love for technology and a knack for solving complex problems. I thrive both as an independent contributor and as a collaborative team member.
+I'm a passionate software engineer based in Greece with a strong appreciation for the terminal and open source tooling. My interests lie in Go (Golang), Neovim, and the Linux ecosystem. I thrive both as an independent contributor and as a collaborative team member.
 
 *   🌍  I'm based in Greece
 *   ✉️  You can contact me at [artopouloskon@gmail.com](mailto:artopouloskon@gmail.com)
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=go,python,django,mysql,javascript,typescript,react,neovim,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,django,sqlite,postgresql,javascript,typescript,react,neovim,git,linux)](https://skillicons.dev)
                     
 
 ### Socials
