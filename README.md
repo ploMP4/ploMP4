@@ -10,7 +10,7 @@ I'm a passionate software engineer based in Greece with a strong appreciation fo
 *   ✉️  You can contact me at [artopouloskon@gmail.com](mailto:artopouloskon@gmail.com)
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=go,python,django,sqlite,postgresql,docker,lua,javascript,typescript,react,neovim,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,django,sqlite,postgresql,docker,lua,rust,javascript,typescript,react,neovim,git,linux)](https://skillicons.dev)
                     
 
 ### Socials
