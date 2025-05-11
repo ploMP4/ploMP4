@@ -8,6 +8,7 @@ I'm a passionate software engineer based in Greece with a strong appreciation fo
 
 *   🌍  I'm based in Greece
 *   ✉️  You can contact me at [artopouloskon@gmail.com](mailto:artopouloskon@gmail.com)
+*   🚀  I'm currently working on [Kyma (κῦμα)](https://github.com/ploMP4/kyma), a presentation tool that runs in the terminal.
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=go,python,django,sqlite,postgresql,docker,lua,rust,javascript,typescript,react,neovim,git,linux)](https://skillicons.dev)
