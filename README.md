@@ -8,5 +8,6 @@
   * [kyma](https://github.com/ploMP4/kyma) - presentations from markdown in the terminal
   * [chafa-go](https://github.com/ploMP4/chafa-go) - go bindings for [chafa](https://github.com/hpjansson/chafa) without CGO
   * [phonto](https://github.com/museslabs/phonto) - GPU-accelerated video wallpaper program for wayland compositors
+  * [draven.nvim](https://github.com/ploMP4/draven.nvim) - Review a diffs in Neovim and export them for ai agents to use
 * Sometimes I [blog](https://plo.fyi)
 * Other times I [make videos on youtube](https://youtube.com/@plo.mp4)
