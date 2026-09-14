@@ -9,3 +9,4 @@
   * [chafa-go](https://github.com/ploMP4/chafa-go) - go bindings for [chafa](https://github.com/hpjansson/chafa) without CGO
   * [phonto](https://github.com/museslabs/phonto) - GPU-accelerated video wallpaper program for wayland compositors
 * Sometimes I [blog](https://plo.fyi)
+* Other times I [make videos on youtube](https://youtube.com/@plo.mp4)
